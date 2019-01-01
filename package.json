@@ -1,0 +1,19 @@
+{
+  "name": "Daily Dhan App",
+  "version": "0.0.1",
+  "private": true,
+  "dependencies": {
+"express": "4.16.4",
+		"readline-sync": "latest",
+		"serve-favicon": "latest",
+		"morgan": "latest",
+		"cookie-parser": "latest",
+		"body-parser": "latest",
+         "mysql": "latest"
+
+
+},
+  "scripts": {
+    "start": "node app.js"
+  }
+}
